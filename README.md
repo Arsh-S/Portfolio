@@ -55,7 +55,7 @@ This project uses the following:
 - Icons: [SVGrepo](https://www.svgrepo.com/) icons for GitHub, LinkedIn, email, and skills.
 
 ## Demo
-Check out a live demo of the website [here]().
+Check out a live demo of the website [here](www.arshsingh.net).
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this project as needed.
