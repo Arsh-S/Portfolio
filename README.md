@@ -37,7 +37,7 @@ The JavaScript file powers the dynamic behavior of the website, including:
 ## How to Use
 1.	Clone the repository:
 ```
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/Arsh-S/Portfolio.git
 ```
 2.	Open the project in a browser:
 
